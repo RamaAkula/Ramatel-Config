@@ -1,2 +1,0 @@
-# Ramatel-Config
-configuration
